@@ -93,3 +93,14 @@ span{
     background-size: 20%;
     display: flex;
 }
+.about-web{
+    display: flex;
+    margin-top: 50px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right top 400px;
+    background-size: 15%;
+    
+    
+    
+}
