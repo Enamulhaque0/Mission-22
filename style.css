@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Yeseva One', cursive;
+    font-size: 40px
+}
+section{
+    display: flex;
+    margin-left: 5%; 
+    
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    
+
+}
+
+img{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    
+}
+span{
+    color: tomato;
+}
+.gradient-color{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,red);
+    border-image-slice: 1;
+}
+.link-buttom{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+.top{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.button-text{
+    margin-bottom: 100px;
+}
+#text-center{
+    text-align: center;
+    
+}
+.flex-mission{
+    display: flex;
+}
+.programming-fanda{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 50px;
+    background-color: turquoise;
+    border-radius: 8px;
+    padding-left: 2%;
+   
+}
+.Front-end{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 50px;
+    background-color: rgb(201, 221, 16);
+    border-radius: 8px;
+    padding-left: 2%;
+    
+}
+.Web-servers{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 50px;
+    background-color: rgb(241, 0, 189);
+    border-radius: 8px;
+    padding-left: 2%;
+     
+}
