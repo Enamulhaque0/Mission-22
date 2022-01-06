@@ -1,3 +1,5 @@
+*{margin: 0;
+    padding: 0;}
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -61,7 +63,7 @@ span{
     margin-right: 2%;
     margin-bottom: 50px;
     background-color: rgba(110, 201, 192, 0.356);
-    border-radius: 8px;
+    border-radius: 40px;
     padding-left: 2%;
    
 }
@@ -70,7 +72,7 @@ span{
     margin-right: 2%;
     margin-bottom: 50px;
     background-color: hsla(355, 34%, 60%, 0.418);
-    border-radius: 8px;
+    border-radius: 40px;
     padding-left: 2%;
     
 }
@@ -79,7 +81,7 @@ span{
     margin-right: 2%;
     margin-bottom: 50px;
     background-color: rgba(184, 164, 164, 0.233);
-    border-radius: 8px;
+    border-radius: 40px;
     padding-left: 2%;
     
 }
@@ -98,9 +100,29 @@ span{
     margin-top: 50px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: right top 400px;
-    background-size: 15%;
+    background-position: right top 327px;
+    background-size: 15%; 
+}
+footer{
+    text-align: center;
+}
+
+.missi{
+    color: white;
+    margin-bottom: 40px;
     
-    
-    
+}
+.tow{
+    color: coral;
+}
+.last-mission{
+   margin-top: 50px;
+   padding-top: 30px;
+   padding-bottom: 10px; 
+   
+   background-color: rgba(14, 12, 12, 0.932);
+}
+.last-mis{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
